@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "tobias.funke@reqres.in",
+      "firstname": "Tobias",
+      "lastname": "Funke",
+      "age": 60,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg"
+    },
+    {
+      "id": 2,
+      "email": "byron.fields@reqres.in",
+      "firstname": "Byron",
+      "lastname": "Fields",
+      "age": 50,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"
+    },
+    {
+      "id": 3,
+      "email": "george.edwards@reqres.in",
+      "firstname": "George",
+      "lastname": "Edwards",
+      "age": 25,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"
+    },
+    {
+      "id": 4,
+      "email": "rachel.howell@reqres.in",
+      "firstname": "Rachel",
+      "lastname": "Howell",
+      "age": 45,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+      "address1": "US",
+      "address2": "NA"
+    },
+    {
+      "firstname": "Ratnesh",
+      "lastname": "kumar",
+      "email": "abc@gmail.com",
+      "Address1": "",
+      "Address2": "",
+      "age": 30,
+      "city": "America",
+      "address1": "US",
+      "address2": "NA",
+      "id": 5
+    },
+    {
+      "firstname": "John",
+      "lastname": "MIC",
+      "email": "john@gmail.com",
+      "Address1": "RSA",
+      "Address2": "RSA",
+      "city": "w",
+      "id": 6,
+      "age": "26"
+    }
+  ]
+}
